@@ -1,0 +1,10 @@
+[
+    {"id":8,"email":"med@gmail.com", "cont":"Wave hello there!", "isRead":false},
+    {"id":1,"email":"haroun@gmail.com", "cont":"Congrats Mohamed Amine, you've been accepted", "isRead":false},
+    {"id":2,"email":"ahmed@gmail.com", "cont":"No way if this is true", "isRead":false},
+    {"id":3,"email":"armin@gmail.com", "cont":"Hello Armani, I'm reaching out for...", "isRead":false},
+    {"id":4,"email":"marwen@gmail.com", "cont":"Hi there 👋, this is Mohamed amine fhal", "isRead":false},
+    {"id":5,"email":"majdi@gmail.com", "cont":"I don't know really why i'm here but yes i'm glad for this", "isRead":false},
+    {"id":6,"email":"amira@gmail.com", "cont":"Yooo, this is a test", "isRead":false},
+    {"id":7,"email":"yaakoub@gmail.com", "cont":"NOTIFICATION from twitter", "isRead":false}
+]
